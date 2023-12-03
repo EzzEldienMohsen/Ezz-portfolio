@@ -40,6 +40,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/3l7FJK2sQBZSp2YPcqP12i/d855c4aebd4ba19ae4aeac0f2c9ac068/tailwindcssportfolio-.JPG',
+    url: 'https://taill-wind-css-portfolio.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/TaillWind-CSS-portfolio',
+    title: 'TailWind css portfolio',
+    text: 'in this project i used TailWind css to style my project and created yet another resume.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/4YvWZJPE027dFnRqR5aJcx/c8fd0cb8f266440dacc2119a7e52bbef/unsplash.JPG',
     url: 'https://unsplash-images-swart.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Unsplash-Images',
