@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/1CGwN8OWbSFUrsstzdmMFe/7c4f5546a8f03c6b501c1865de8031c6/redux.JPG',
+    url: 'https://redux-tool-kit-six.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Redux-toolKit',
+    title: 'Redux ToolKit',
+    text: 'in this project i learned how to use Redux toolkit, its general structure, slices, hooks and how to handle fetched data and errors while using it.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/5MTKgRBtZSc0FViQKaaRP1/4871063439868dd0e523ce0155bace9c/mixmaster.JPG',
     url: 'https://mix-master-umber.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Mix-Master',
