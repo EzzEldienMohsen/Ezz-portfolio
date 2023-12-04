@@ -41,9 +41,9 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/3l7FJK2sQBZSp2YPcqP12i/d855c4aebd4ba19ae4aeac0f2c9ac068/tailwindcssportfolio-.JPG',
-    url: 'https://taill-wind-css-portfolio.vercel.app/',
-    github: 'https://github.com/EzzEldienMohsen/TaillWind-CSS-portfolio',
-    title: 'TailWind css portfolio',
+    url: 'https://ezz-portfolio.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Ezz-portfolio',
+    title: 'Ezz portfolio',
     text: 'in this project i used TailWind css to style my project and created yet another resume.',
   },
   {
