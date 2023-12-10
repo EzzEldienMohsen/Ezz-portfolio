@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/7E6MIbRNDxZKSymjbqkOIf/244b5eec6e4c62259ac485a94c2e8f6d/comfy_store.JPG',
+    url: 'https://comfy-store-lyart.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Comfy-store',
+    title: 'Comfy Store',
+    text: 'in this project i used all i have learned in react, i learned using daisyui while working on it, i used react router dom in sync with react query and redux toolkit, i have made several get and post requests to server, imade a guest user so if any one wants to see the full functionality without registering it can be done and i learned pagination as well.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/1CGwN8OWbSFUrsstzdmMFe/7c4f5546a8f03c6b501c1865de8031c6/redux.JPG',
     url: 'https://redux-tool-kit-six.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Redux-toolKit',
