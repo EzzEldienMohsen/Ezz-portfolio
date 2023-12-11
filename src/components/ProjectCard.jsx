@@ -12,7 +12,7 @@ const ProjectCard = ({ img, url, github, title, text }) => {
       />
       <div className="capitalize p-8">
         <h2 className="text-xl font-medium tracking-wide">{title}</h2>
-        <p className="mt-8 text-slate-700 loading-loose bg-white h-64">
+        <p className="mt-8 text-slate-700 loading-loose lg:bg-white lg:h-64">
           {text}
         </p>
         <div className="mt-4 flex gap-x-4">
