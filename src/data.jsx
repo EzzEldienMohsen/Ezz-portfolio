@@ -40,6 +40,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/W8NnStBHi8DvLiRgo7Rgr/f87093ecb3698659a757dcb0d348f7bd/jobster.JPG',
+    url: 'https://jobster-zeta.vercel.app/landing',
+    github: 'https://github.com/EzzEldienMohsen/Jobster',
+    title: 'Jobster',
+    text: 'In this project i mainly and highly concentrated at Redux toolkit, I used it very much, created three slices with a lot of reducers, extraReduces and asyncThunks, and learned how to use recharts package.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/1CGwN8OWbSFUrsstzdmMFe/7c4f5546a8f03c6b501c1865de8031c6/redux.JPG',
     url: 'https://redux-tool-kit-six.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Redux-toolKit',

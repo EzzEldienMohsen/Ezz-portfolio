@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="text-3xl font-bold">
           Web<span className="text-emerald-600">Dev</span>
         </div>
-        <div className="flex gap-x-8 sm:gap-x-36">
+        <div className="flex gap-x-8 sm:gap-x-12">
           {aLinks[0].map((link) => {
             return (
               <a
