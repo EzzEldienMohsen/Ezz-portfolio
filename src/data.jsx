@@ -1,12 +1,12 @@
-import { nanoid } from 'nanoid'
-import { FaHtml5, FaJs, FaReact } from 'react-icons/fa'
+import { nanoid } from 'nanoid';
+import { FaHtml5, FaJs, FaReact } from 'react-icons/fa';
 
 export const links = [
   { id: nanoid(), href: '#home', text: 'home' },
   { id: nanoid(), href: '#skills', text: 'skills' },
   { id: nanoid(), href: '#about', text: 'about' },
   { id: nanoid(), href: '#projects', text: 'projects' },
-]
+];
 
 export const skills = [
   {
@@ -27,7 +27,7 @@ export const skills = [
     icon: <FaReact className="h-16 w-16 text-emerald-500" />,
     text: 'Good proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
   },
-]
+];
 
 export const projects = [
   {
@@ -77,6 +77,14 @@ export const projects = [
     github: 'https://github.com/EzzEldienMohsen/Unsplash-Images',
     title: 'unsplash-images',
     text: 'in this project i used forms and forms data and used React query fetch data according to my search term and display the images.',
+  },
+  {
+    id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/5T95iJt0oOBHOFCJfFVwIv/7c50d563b3e6d2b120f757cdc30427e4/reactTs.JPG',
+    url: 'https://react-ts-brown.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/React-TS',
+    title: 'React + TS',
+    text: 'in this project I used React with TypeScript and Practiced Git and GitHub.',
   },
   {
     id: nanoid(),
@@ -158,4 +166,4 @@ export const projects = [
     title: 'Q-A',
     text: 'this project is one of several small projects i have done to master how to integrate my knowledge and skills in the Css and vanilla JS with react and to learn more about react Hooks, several different libraries, how to use global context, how to customize a hook and how to fetch data using axios and useEffect and how to deal with errors and epis .',
   },
-]
+];
