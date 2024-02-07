@@ -88,6 +88,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/2rZqGhWlsodRULp71IFHRZ/2798ec77c92efa22e708d8525a39a42d/ReactTimer.JPG',
+    url: 'https://react-ts-p3.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/React-TS-P3',
+    title: 'ReactTimer + TS',
+    text: 'in this project I used React with TypeScript to create more advanced components, used typeScript with several hooks .',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/5qjsFHUPmaIxG7Z08HJ22N/10ab09bf47de7a954f409e50f7985389/resume.JPG',
     url: 'https://my-resume-kappa-eight.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/My-Resume',
