@@ -98,7 +98,7 @@ export const projects = [
     id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/47ScPKMlGbNMNbm7PthCXa/7820c9655bda13856ef20c867181b296/Fetch_with_ts.JPG',
     url: 'https://react-ts-p4.vercel.app/',
-    github: 'https://github.com/EzzEldienMohsen/React-TS',
+    github: 'https://github.com/EzzEldienMohsen/React-TS-P4',
     title: 'Fetch with TS',
     text: 'in this project I focused on fetching with TS.',
   },
