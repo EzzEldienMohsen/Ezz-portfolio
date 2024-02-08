@@ -96,6 +96,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/47ScPKMlGbNMNbm7PthCXa/7820c9655bda13856ef20c867181b296/Fetch_with_ts.JPG',
+    url: 'https://react-ts-p4.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/React-TS',
+    title: 'Fetch with TS',
+    text: 'in this project I focused on fetching with TS.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/5qjsFHUPmaIxG7Z08HJ22N/10ab09bf47de7a954f409e50f7985389/resume.JPG',
     url: 'https://my-resume-kappa-eight.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/My-Resume',
