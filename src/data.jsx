@@ -48,6 +48,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/3KVZmfP9o7R9HhjSEpJWuf/d75e4d8df8f4cd73b47898b032dcb8da/Indian.JPG',
+    url: 'https://grocery-india.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Grocery-india',
+    title: 'Zepto grocery',
+    text: 'This is my first ever project as a front end web developer intern and it is not finished yet .',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/1CGwN8OWbSFUrsstzdmMFe/7c4f5546a8f03c6b501c1865de8031c6/redux.JPG',
     url: 'https://redux-tool-kit-six.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Redux-toolKit',
