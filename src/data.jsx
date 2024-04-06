@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/3KVZmfP9o7R9HhjSEpJWuf/7d358e8c9c8ca10fefc18f499c7e412b/ace_tech.JPG',
+    url: 'https://ace-tech-one.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/AceTech',
+    title: 'Ace tech marketing solution',
+    text: 'This is my first ever project as a front end web developer as i made the front end of my company web site using React.JS.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/7E6MIbRNDxZKSymjbqkOIf/244b5eec6e4c62259ac485a94c2e8f6d/comfy_store.JPG',
     url: 'https://comfy-store-lyart.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Comfy-store',
@@ -45,14 +53,6 @@ export const projects = [
     github: 'https://github.com/EzzEldienMohsen/Jobster',
     title: 'Jobster',
     text: 'In this project i mainly and highly concentrated at Redux toolkit, I used it very much, created three slices with a lot of reducers, extraReduces and asyncThunks, and learned how to use recharts package.',
-  },
-  {
-    id: nanoid(),
-    img: 'https://images.ctfassets.net/awulmt8zwv6o/3KVZmfP9o7R9HhjSEpJWuf/d75e4d8df8f4cd73b47898b032dcb8da/Indian.JPG',
-    url: 'https://grocery-india.vercel.app/',
-    github: 'https://github.com/EzzEldienMohsen/Grocery-india',
-    title: 'Zepto grocery',
-    text: 'This is my first ever project as a front end web developer intern and it is not finished yet .',
   },
   {
     id: nanoid(),
