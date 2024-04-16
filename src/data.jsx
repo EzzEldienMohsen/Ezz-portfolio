@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/7vEgm45evRGPcZv1t6Doy3/c4c94cb01d3c34c73c6a2ee4645df11b/erp_pic.JPG',
+    url: 'https://erp-clone-roan.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/erp-clone',
+    title: 'framer motion trial',
+    text: 'This is my first trial trying to use framer motion to add some simple animation to my site, i created my data so i made it to have the need to use optional chaining, it was a nice experience to have nice ideas and thoughts',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/3KVZmfP9o7R9HhjSEpJWuf/7d358e8c9c8ca10fefc18f499c7e412b/ace_tech.JPG',
     url: 'https://ace-tech-one.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/AceTech',
