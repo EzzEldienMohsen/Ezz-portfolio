@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/10BGN2y0uNZwTV2YrYt6pm/8f9a84f90e06f9039f8665cb6294cbe4/HABITAT.JPG',
+    url: 'https://habitat-react.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Habitat-React',
+    title: 'Habitat',
+    text: 'This is the first website i cloned using (HTML,CSS and JS) i decided to do it all over again to see how much i improved in this time and here we are',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/7vEgm45evRGPcZv1t6Doy3/c4c94cb01d3c34c73c6a2ee4645df11b/erp_pic.JPG',
     url: 'https://erp-clone-roan.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/erp-clone',
