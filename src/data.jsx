@@ -40,6 +40,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/4lRVeqvGbOmlLZz3nCs0nm/4f25cc6d99d6256d13f0c4410387a390/ega-future.JPG',
+    url: 'https://ega-future-clone.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/egaFuture-clone',
+    title: 'EGA Future',
+    text: 'this is a single page website, it has a very good room to grow, I learned how to use unit test using both of vitest and react test library, I improved my animation skills as I used AOS library, framer-motion and Pure CSS, It was a nice and useful practice. ',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/7vEgm45evRGPcZv1t6Doy3/c4c94cb01d3c34c73c6a2ee4645df11b/erp_pic.JPG',
     url: 'https://erp-clone-roan.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/erp-clone',
