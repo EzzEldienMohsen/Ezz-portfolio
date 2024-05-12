@@ -40,6 +40,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/1rQFbSnhmpLsYeSL7I32Kz/98b0c16db5f004bd26a2bc2107c6d773/Algorezmi.JPG',
+    url: 'https://algorezmi.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Algorezmi',
+    title: 'Habitat',
+    text: 'in this website I applied all the animation I learned in the previous period in my previous projects, I uses AOS library, Framer-Motion library and pure css animation.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/4lRVeqvGbOmlLZz3nCs0nm/4f25cc6d99d6256d13f0c4410387a390/ega-future.JPG',
     url: 'https://ega-future-clone.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/egaFuture-clone',
