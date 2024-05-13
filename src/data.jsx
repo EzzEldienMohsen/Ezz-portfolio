@@ -43,7 +43,7 @@ export const projects = [
     img: 'https://images.ctfassets.net/awulmt8zwv6o/1rQFbSnhmpLsYeSL7I32Kz/98b0c16db5f004bd26a2bc2107c6d773/Algorezmi.JPG',
     url: 'https://algorezmi.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Algorezmi',
-    title: 'Habitat',
+    title: 'Algorezmi',
     text: 'in this website I applied all the animation I learned in the previous period in my previous projects, I uses AOS library, Framer-Motion library and pure css animation.',
   },
   {
@@ -76,7 +76,7 @@ export const projects = [
     url: 'https://comfy-store-lyart.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Comfy-store',
     title: 'Comfy Store',
-    text: 'in this project i used all i have learned in react, i learned using daisyui while working on it, i used react router dom in sync with react query and redux toolkit, i have made several get and post requests to server, imade a guest user so if any one wants to see the full functionality without registering it can be done and i learned pagination as well.',
+    text: 'in this project I used all I have learned in react, I learned using daisy-ui while working on it, I used react router dom in sync with react query and redux toolkit, I have made several get and post requests to server, I made a guest user so if any one wants to see the full functionality without registering it can be done and I learned pagination as well.',
   },
   {
     id: nanoid(),
