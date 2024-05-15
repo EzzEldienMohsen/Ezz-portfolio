@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="bg-white py-20" id="about">
       <div className="align-element grid md:grid-cols-2 items-center gap-16 ">
-        <img src={aboutSvg} className="w-full h-96" />
+        <img src={aboutSvg} className="w-full h-[450px]" />
         <div>
           <SectionTitle text="About me" />
           <p className="text-slate-600 mt-6 leading-loose capitalize">
