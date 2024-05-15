@@ -60,7 +60,7 @@ export const projects = [
     url: 'https://erp-clone-roan.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/erp-clone',
     title: 'framer motion trial',
-    text: 'This is my first trial trying to use framer motion to add some simple animation to my site, i created my data so i made it to have the need to use optional chaining, it was a nice experience to have nice ideas and thoughts',
+    text: 'This is my first trial trying to use framer motion to add some simple animation to my site, I created my data so I made it to have the need to use optional chaining, it was a nice experience to have nice ideas and thoughts',
   },
   {
     id: nanoid(),

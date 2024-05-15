@@ -8,25 +8,24 @@ const About = () => {
         <div>
           <SectionTitle text="About me" />
           <p className="text-slate-600 mt-6 leading-loose capitalize">
-            i am a former mechanical engineer, graduated in 2019 and worked in
-            this career for 4 years. i also worked as a customer service
-            representative while studying Front-End. i have made a lot of simple
-            projects while learning Front-end developing. two using the vanilla
-            of three languages. i then started working on react and vite and i
-            have done several projects. i made simple one in my trial to
-            understand components and react structure. i made some trying to
-            understand react hooks, custom hooks, and global content. i made
-            some in my trial to learn some libraries such as: react query ,
-            react router dom. and along the way i improved my css and learned
-            about styled components and tailwind css. i got knowledge about
-            several packages like toastify, nanoid, axios gained knowledge about
-            how to deal with headless cms and a lot more and yet there is more
-            to come.
+            With a solid foundation in mechanical engineering cultivated over four years in the field, I transitioned to the dynamic realm of front-end development. Simultaneously, I augmented my skill set by working as a customer service representative, demonstrating my ability to balance responsibilities while pursuing my passion for technology.
+
+Beginning with modest projects, I immersed myself in the fundamentals of web development, leveraging HTML, CSS, and JavaScript to create simple yet functional applications. This hands-on experience provided a crucial springboard for my journey into more sophisticated tools and frameworks.
+
+Driven by a thirst for knowledge and innovation, I embraced React and Vite, harnessing their capabilities to build responsive and dynamic web solutions. Through meticulous experimentation, I gained insight into complex concepts such as React components, state management with hooks, and global content management.
+
+Expanding my repertoire, I delved into renowned libraries including TanStack Query and React Router Dom, integrating their functionalities seamlessly into my projects. Concurrently, I refined my design skills by mastering modern CSS methodologies such as Styled Components and Tailwind CSS, ensuring both elegance and efficiency in my creations.
+
+Moreover, I explored the vast landscape of packages and utilities, acquiring proficiency in essential tools like Toastify, Nanoid, and Axios. Additionally, I navigated the intricacies of headless CMS systems, acquiring valuable expertise in content management and delivery strategies.
+
+As I reflect on my journey thus far, I am humbled by the depth of knowledge gained and invigorated by the prospect of continuous growth. Each project represents an opportunity to push boundaries, innovate, and contribute meaningfully to the ever-evolving field of web development.
+
+Join me as we embark on an exciting journey of exploration and innovation, transforming ideas into reality through the power of technology. Together, let us shape the digital landscape and redefine possibilities.
           </p>
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default About

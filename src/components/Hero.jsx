@@ -6,16 +6,13 @@ const Hero = () => {
       <div className="align-element grid md:grid-cols-2 items-center gap-8">
         <div>
           <h1 className="text-5xl tracking-wider font-bold">
-            I am Ezz Eldin Dghedy
+            I am Ezz Eldien Deghedy
           </h1>
           <p className="text-2xl capitalize text-slate-700 tracking-wide mt-8">
-            front-end developer
+            Front-End React.js Developer: Crafting Responsive, Interactive & Dynamic Websites
           </p>
           <p className="mt-4 text-lg text-slate-700 capitalize tracking-wide">
-            i am a front-end developer that at the start of this career, seeking
-            an opportunity to hone my skills and and grow as a web developer, i
-            am a quick learner, passionate about what i do, team player and
-            hard-worker.
+            I'm Ezz Eldien Deghedy, specializing in front-end web development. Proficient in React framework, I leverage its hooks and various libraries to craft dynamic interfaces. My toolkit extends to TanStack-Query, React-Router-Dom, and Redux toolkit for efficient state management. With expertise in CSS frameworks like Tailwind-CSS, I bring sleek designs to life, ensuring they are responsive across all devices. Moreover, I incorporate material libraries such as daisy-ui, flow-bite, material-ui, and tailwind material for added versatility. My projects range from portfolios to online stores, enriched with captivating animations. I'm well-versed in animation libraries like framer motion, react springs, and AOS, enhancing user experience. Additionally, I have expertise in integrating RESTful APIs, ensuring seamless data communication and enhancing the functionality of web applications. Rooted in solid fundamentals of HTML5, CSS3, and JavaScript, I ensure robust and interactive web solutions.
           </p>
           <div className="flex mt-4 gap-x-24">
             <a
