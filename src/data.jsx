@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/1TD5AmMKSoBY7ZQRhvjqEP/ee8057893d7757df5429ac97e1d1eef7/Lounge.PNG',
+    url: 'https://lounge-olive.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/Lounge',
+    title: 'Lounge',
+    text: 'This is the front end of a lounge website I have created using the React JS framework, Tailwind CSS, and several different packages and libraries. The website is fully responsive, ensuring it looks great on all devices, and I have added custom styling to enhance the visual appeal and user experience. Additionally, I have set up a POST request to be ready for when the backend is completed, allowing for seamless integration once the server-side is done.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/10BGN2y0uNZwTV2YrYt6pm/8f9a84f90e06f9039f8665cb6294cbe4/HABITAT.JPG',
     url: 'https://habitat-react.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Habitat-React',
