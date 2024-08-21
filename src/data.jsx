@@ -32,6 +32,22 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/7nnJRViVTPjnrYL6dgfktI/9d91ef0111663d3b11e7e552a8fad898/mashawi.PNG',
+    url: 'https://mashawi-react.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/mashawiReact',
+    title: 'mashawi',
+    text: 'This is the first ever typeScript project i have made, i translated it, i used a lot of form and check packages, i have made several cycles such as log in complete cycle, checkout cycle and cart cycle. I merged my cart with the backend cart, lazy loaded of course, i enhanced using tanstack query and react router dom together.',
+  },
+  {
+    id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/3RsY2nUUw414uRNUxWeztf/bc7dd9669e6472e7b3026ad5e61e2ec0/prince.PNG',
+    url: 'https://prince-pi.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/prince',
+    title: 'Prince',
+    text: 'This is the first translated website i have ever created, in this website i learned how to use i18n for translation and how to lazy load my component.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/1TD5AmMKSoBY7ZQRhvjqEP/ee8057893d7757df5429ac97e1d1eef7/Lounge.PNG',
     url: 'https://lounge-olive.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/Lounge',
