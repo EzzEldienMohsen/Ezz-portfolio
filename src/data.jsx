@@ -32,6 +32,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: 'https://images.ctfassets.net/awulmt8zwv6o/56RczHqFLFKkrY69V4PcfO/68895d00186c8e17fb3b2f7717a408d6/image.png',
+    url: 'https://jobster-next-js.vercel.app/',
+    github: 'https://github.com/EzzEldienMohsen/jobster-nextJS',
+    title: 'Jobster nextJS',
+    text: 'this is my first project using next js, I used prisma for my data base, Clerk for authentication,Typescript and Tailwind-css. Very proud of myself writing it.',
+  },
+  {
+    id: nanoid(),
     img: 'https://images.ctfassets.net/awulmt8zwv6o/7nnJRViVTPjnrYL6dgfktI/9d91ef0111663d3b11e7e552a8fad898/mashawi.PNG',
     url: 'https://mashawi-react.vercel.app/',
     github: 'https://github.com/EzzEldienMohsen/mashawiReact',
